@@ -26,10 +26,28 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  shug0131
 
+lsi: false
+safe: true
+source: .
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+nav_external_links:
+  - title: Further Info
+    url: https://en.wikipedia.org/wiki/Gunning_fog_index
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
