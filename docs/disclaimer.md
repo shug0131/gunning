@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Disclaimer
-permalink: /disclaimer/
 ---
 
 * The author of this website accepts no responsibility whatsoever for any use made of the output of this site.
