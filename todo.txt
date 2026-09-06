@@ -1,0 +1,8 @@
+# TOdo
+
+The formatting of the github site looks rubbish and the nav links don't work - maybe time lag delay
+
+Compare to EudraCT site for includes/ headers footers...
+
+Consider how to hide the code logic, or how to capture back the content from an external server to display interactively?
+
