@@ -22,13 +22,13 @@ title: Gunning Fog Index
 email: gunning.fog@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Attempting to modernise this site using github/jekyll
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  shug0131
 
 lsi: false
 safe: true
-source: .
+#source: /docs
 incremental: false
 highlighter: rouge
 gist:
