@@ -1,10 +1,13 @@
 # TOdo
 
 
-
-Consider how to hide the code logic, or how to capture back the content from an external server to display interactively?
-
-coffeescript seems to work with jekyll.
-
 Themes
+
+Check security of code? 
+
+Add link to github site to the Bavkground?
+
+Looking into CI to 100webspace and moving hostname provider, to use github as host.
+
+weird </div> behaviour
 
